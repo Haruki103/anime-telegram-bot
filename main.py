@@ -185,7 +185,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 📢 *Kanalimiz:* @Haruki_animelaruzboty
 ⭐ *Taklif va shikoyatlar:* @sizning_username
 
-*Buyruqlar:*
+
 /start - Boshlash
 /help - Yordam
 /list - Ro'yxat
